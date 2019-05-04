@@ -43,6 +43,7 @@ biocViews: Software, GeneExpression, Pathways, Bayesian
 Suggests:
     testthat,
     BiocStyle,
+    lintr,
     knitr,
     rmarkdown
 RoxygenNote: 6.1.0
